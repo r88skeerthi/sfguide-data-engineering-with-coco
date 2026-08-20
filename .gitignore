@@ -10,3 +10,4 @@ dbt/profiles.yml
 
 # Mac files
 .DS_Store
+profiles.yml
